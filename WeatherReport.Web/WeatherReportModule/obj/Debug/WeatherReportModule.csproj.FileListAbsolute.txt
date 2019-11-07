@@ -1,0 +1,11 @@
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\bin\Debug\WeatherReportModule.dll
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\bin\Debug\WeatherReportModule.pdb
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\bin\Debug\Autofac.dll
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\bin\Debug\Newtonsoft.Json.dll
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\bin\Debug\Autofac.pdb
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\bin\Debug\Autofac.xml
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\bin\Debug\Newtonsoft.Json.xml
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\obj\Debug\WeatherReportModule.csprojResolveAssemblyReference.cache
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\obj\Debug\WeatherReportModule.csproj.CoreCompileInputs.cache
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\obj\Debug\WeatherReportModule.dll
+D:\My Space\POC\WeatherReport\WeatherReport.Web\WeatherReportModule\obj\Debug\WeatherReportModule.pdb
