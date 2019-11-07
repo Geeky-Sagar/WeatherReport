@@ -18,4 +18,4 @@ It Also Has Class Library Project "WeatherReportModule"
 2. Command Pattern.
 3. Repository Pattern.
 
-Peding Task: Unit Test Case (I have experience in Nunit3) - Do you shortage of time
+Peding Task: Unit Test Case (I have experience in Nunit3) - Due to shortage of time couldn't complete.
